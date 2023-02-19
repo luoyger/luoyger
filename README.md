@@ -17,7 +17,7 @@ Here are some introductions about me:
 
 - 🌱 I’m currently learning frontend technology.
 
-- 👨‍💻 All of my projects are available at <a target="_blank" href="https://github.com/luoyger?tab=repositorie">Project Lists</a>.
+- 👨‍💻 All of my projects are available at <a target="_blank" href="https://github.com/luoyger?tab=repositories">Project Lists</a>.
 
 - 📝 I regularly write articles on my blog <a target="_blank" href="http://www.happy2coding.com">Happy2Coding</a>.
 
