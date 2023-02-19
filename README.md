@@ -3,8 +3,7 @@
 A passionate backend developer from China.
 
 [![GitHub](https://komarev.com/ghpvc/?username=luoyger&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/luoyger/luoyger)
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/luoyger)
-[![RSS](https://img.shields.io/badge/dynamic/json?logo=rss&logoColor=white&label=RSS&labelColor=95B8D1&color=95B8D1&query=%24.data.totalSubs&url=http://fetchrss.com/rss/63b6e161047a3650e854932263b6e13e1f7fc70e27600342.xml&style=flat-square)](https://happy2coding.com/)
+![GitHub](https://img.shields.io/github/license/luoyger/luoyger)
 
 Here are some introductions about me:
 
