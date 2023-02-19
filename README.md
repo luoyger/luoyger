@@ -7,7 +7,7 @@ A passionate backend developer from China, strive to be full stack developer.
 ![](https://img.shields.io/badge/Devops-developer-green)
 ![](https://img.shields.io/badge/Frontend-developer-orange)
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/luoyger/luoyger/main/code.gif" width="450" height="350" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/luoyger/luoyger/main/code.gif" width="400" height="350" />
 Here are some introductions about me:
 
 - 🍻 I’m master degree candidate in Computer Science.
