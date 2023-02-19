@@ -1,9 +1,11 @@
 ### Hi 👋, I'm **Luoyger**
 
-A passionate backend developer from China.
+A passionate backend developer from China, strive to be full stack developer.
 
-[![GitHub](https://komarev.com/ghpvc/?username=luoyger&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/luoyger/luoyger)
-![GitHub](https://img.shields.io/github/license/luoyger/luoyger)
+[![](https://komarev.com/ghpvc/?username=luoyger&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/luoyger/luoyger)
+![](https://img.shields.io/badge/Backend-developer-yellow)
+![](https://img.shields.io/badge/Devops-developer-green)
+![](https://img.shields.io/badge/Frontend-developer-orange)
 
 Here are some introductions about me:
 
@@ -12,6 +14,8 @@ Here are some introductions about me:
 - 🔭 I’m currently working on Tencent.
 
 - ⚡ I’m usually coding by Java / Go / Python.
+
+- 😄 I worked on devops before such as kubernetes and docker.
 
 - 🌱 I’m currently learning frontend technology.
 
