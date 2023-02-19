@@ -7,6 +7,7 @@ A passionate backend developer from China, strive to be full stack developer.
 ![](https://img.shields.io/badge/Devops-developer-green)
 ![](https://img.shields.io/badge/Frontend-developer-orange)
 
+<img align="right" alt="GIF" src="https://github.com/luoyger/luoyger/blob/master/code.gif?raw=true" width="500" height="420" />
 Here are some introductions about me:
 
 - 🍻 I’m master degree candidate in Computer Science.
@@ -26,6 +27,8 @@ Here are some introductions about me:
 - 📝 I regularly write articles on my blog [Happy2Coding](http://www.happy2coding.com).
 
 - 🏃 I’m interested in Comic and Animation / Table Tennis / Games.
+
+- 💬 Ask me about anything, I am happy to help.
 
 - 📫 How to reach me: 739052349@qq.com.
 
