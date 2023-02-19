@@ -10,17 +10,11 @@ A passionate backend developer from China, strive to be full stack developer.
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/luoyger/luoyger/main/code.gif" width="400" height="300" />
 Here are some introductions about me:
 
-- 🍻 I’m master degree candidate in Computer Science.
-
-- 🔭 I’m currently working on Tencent.
-
 - ⚡ I’m usually coding by Java / Go / Python.
 
 - 😄 I worked on devops before such as kubernetes and docker.
 
 - 🌱 I’m currently learning frontend technology.
-
-- 👯 I’m looking to collaborate on open source projects.
 
 - 👨‍💻 All of my projects are available at [https://github.com/luoyger](https://github.com/luoyger).
 
