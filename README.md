@@ -7,8 +7,6 @@ A passionate backend developer from China, strive to be full stack developer.
 ![](https://img.shields.io/badge/Devops-developer-green)
 ![](https://img.shields.io/badge/Frontend-developer-orange)
 
-<base target="_blank">
-
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/luoyger/luoyger/main/code.gif" width="400" height="300" />
 
 Here are some introductions about me:
@@ -19,9 +17,9 @@ Here are some introductions about me:
 
 - 🌱 I’m currently learning frontend technology.
 
-- 👨‍💻 All of my projects are available at [Project List](https://github.com/luoyger?tab=repositories).
+- 👨‍💻 All of my projects are available at <a target="_blank" href="https://github.com/luoyger?tab=repositorie">Project Lists</a>.
 
-- 📝 I regularly write articles on my blog [Happy2Coding](http://www.happy2coding.com).
+- 📝 I regularly write articles on my blog <a target="_blank" href="http://www.happy2coding.com">Happy2Coding</a>.
 
 - 🏃 I’m interested in Comic and Animation / Table Tennis / Games.
 
